@@ -1,7 +1,9 @@
 * Learn Esperanto
-  Welcome to the ~Learn Esperanto~ repository
+  Welcome to the ~Learn Esperanto~ repository.
 
   In this repository, I'll teach you how to learn Esperanto language simply.
+
+  *This repository contains documents that are being written*
 
 ** Prepation
 *** What is Esperanto
