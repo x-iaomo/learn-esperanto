@@ -1,0 +1,37 @@
+* Learn Esperanto
+  Welcome to the ~Learn Esperanto~ repository
+
+  In this repository, I'll teach you how to learn Esperanto language simply.
+
+** Prepation
+*** What is Esperanto
+    Esperanto (/ˌɛspəˈrɑːntoʊ/ or /ˌɛspəˈræntoʊ/) is the world's most widely spoken
+    constructed international auxiliary language.
+
+    It's the only such language with a population of native speakers,
+    of which there are perhaps several thousand. Usage estimates are difficult,
+    but two recent estimates put the number of active speakers at around 100,000.
+
+    Concentration of speakers is highest in Europe, East Asia and South America.
+    The Universal Esperanto Association has more than 5,500 members in 120 countries.
+
+    The language has also gained a noticeable presence on the internet in recent years,
+    as it became increasingly accessible on platforms such as [[https://lernu.net/][Lernu!]] and [[https://www.duolingo.cn/][Duolingo]].
+
+    Esperanto was created by Polish ophthalmologist L. L. Zamenhof in 1887.
+    It was intended to be a universal second language for international communication.
+    Zamenhof first described the language in Dr. Esperanto's International Language,
+    which he published in five languages under the pseudonym "Doktoro Esperanto".
+    Zamenhof claimed that the grammar of the language could be learned in one hour,
+    though this estimate assumed a learner with a background in European languages.
+    The word esperanto translates into English as "one who hopes";
+    Esperanto speakers are often called "Esperantists" (Esperantistoj).
+
+    Although no country has adopted Esperanto officially,
+    Esperantujo ("Esperanto-land") is the name given to the collection of places where it is spoken.
+
+** References
+   [[https://en.wikipedia.org/wiki/Esperanto][Esperanto - Wikipedia]]
+
+** License
+   GNU General Public License, GPL-3.0
